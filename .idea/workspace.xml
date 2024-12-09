@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3ed10d-82ab-4b2d-a38d-2b96c4c9fd40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/GEEKS_LIBRARY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library_blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book_detail.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/bot_config.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/database/__init__.py" afterDir="false" />
@@ -24,6 +21,11 @@
       <change afterPath="$PROJECT_DIR$/../PythonProject5/items/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/items/kb.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +55,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/GEEKS_LIBRARY/templates&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,6 +64,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,7 +89,14 @@
       <workItem from="1733296378936" duration="696000" />
       <workItem from="1733297304731" duration="905000" />
       <workItem from="1733298642312" duration="1951000" />
-      <workItem from="1733300606004" duration="948000" />
+      <workItem from="1733300606004" duration="1321000" />
+      <workItem from="1733396738319" duration="109000" />
+      <workItem from="1733398203645" duration="275000" />
+      <workItem from="1733398763938" duration="3451000" />
+      <workItem from="1733567562759" duration="2025000" />
+      <workItem from="1733569617205" duration="172000" />
+      <workItem from="1733569989889" duration="2147000" />
+      <workItem from="1733737816671" duration="355000" />
     </task>
     <servers />
   </component>
