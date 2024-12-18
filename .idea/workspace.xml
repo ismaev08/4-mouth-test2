@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e3ed10d-82ab-4b2d-a38d-2b96c4c9fd40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main_app/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/main_page/show_detali.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/main_page/show_list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/components/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/components/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tags/all_books.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tags/kids.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tags/pensioners.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tags/teenagers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tags/youths.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library_blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/basket_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/basket_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/create_basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/delete_basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/list_of_orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/Basket/update_basket.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/bot_config.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject5/database/__init__.py" afterDir="false" />
@@ -30,16 +29,11 @@
       <change afterPath="$PROJECT_DIR$/../PythonProject5/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/book_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="CSS File" />
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -121,7 +115,13 @@
       <workItem from="1733983988713" duration="3621000" />
       <workItem from="1734001931706" duration="945000" />
       <workItem from="1734173817643" duration="1219000" />
-      <workItem from="1734362329833" duration="1768000" />
+      <workItem from="1734362329833" duration="3999000" />
+      <workItem from="1734506846265" duration="71000" />
+      <workItem from="1734506923087" duration="1273000" />
+      <workItem from="1734508262121" duration="4574000" />
+      <workItem from="1734519345603" duration="2826000" />
+      <workItem from="1734530409602" duration="29000" />
+      <workItem from="1734530495625" duration="1320000" />
     </task>
     <servers />
   </component>
