@@ -1,131 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e3ed10d-82ab-4b2d-a38d-2b96c4c9fd40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Basket/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basket/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library_blog/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/basket_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/basket_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/create_basket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/delete_basket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/list_of_orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Basket/update_basket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/bot_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/database/table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/echo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/review_dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/handlers/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/items/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/items/kb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PythonProject5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/library_blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/components/header.html" afterDir="false" />
+    <list default="true" id="9c655269-75a7-4bd8-8285-b0cef8f35957" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/GEEKS_LIBRARY.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-        <option value="Python Script" />
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="2pjxkp6jxgsVOxnr1RObNykdgNk" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2qew2DXkuVZNUCMZDgR3jsgKA6y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/GEEKS_LIBRARY/templates&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\templates" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e3ed10d-82ab-4b2d-a38d-2b96c4c9fd40" name="Changes" comment="" />
-      <created>1733293431344</created>
+      <changelist id="9c655269-75a7-4bd8-8285-b0cef8f35957" name="Changes" comment="" />
+      <created>1735036140068</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1733293431344</updated>
-      <workItem from="1733293432438" duration="2713000" />
-      <workItem from="1733296378936" duration="696000" />
-      <workItem from="1733297304731" duration="905000" />
-      <workItem from="1733298642312" duration="1951000" />
-      <workItem from="1733300606004" duration="1321000" />
-      <workItem from="1733396738319" duration="109000" />
-      <workItem from="1733398203645" duration="275000" />
-      <workItem from="1733398763938" duration="3451000" />
-      <workItem from="1733567562759" duration="2025000" />
-      <workItem from="1733569617205" duration="172000" />
-      <workItem from="1733569989889" duration="2147000" />
-      <workItem from="1733737816671" duration="686000" />
-      <workItem from="1733743254684" duration="595000" />
-      <workItem from="1733917073281" duration="2356000" />
-      <workItem from="1733983245425" duration="632000" />
-      <workItem from="1733983988713" duration="3621000" />
-      <workItem from="1734001931706" duration="945000" />
-      <workItem from="1734173817643" duration="1219000" />
-      <workItem from="1734362329833" duration="3999000" />
-      <workItem from="1734506846265" duration="71000" />
-      <workItem from="1734506923087" duration="1273000" />
-      <workItem from="1734508262121" duration="4574000" />
-      <workItem from="1734519345603" duration="2826000" />
-      <workItem from="1734530409602" duration="29000" />
-      <workItem from="1734530495625" duration="1320000" />
+      <updated>1735036140068</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
