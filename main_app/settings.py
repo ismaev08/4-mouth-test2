@@ -30,7 +30,6 @@ INSTALLED_APPS = [
     'library_blog',
     'book_tags',
     'Basket',
-    'parser_app'
     'recipes'
 ]
 
