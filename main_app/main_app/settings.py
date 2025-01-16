@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     # startapps
     'library_blog',
     'book_tags',
+    'basket',
 ]
 
 MIDDLEWARE = [
