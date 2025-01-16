@@ -4,78 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fee4ccc-72b3-4661-92cb-5700f3bde46c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/geeks_Library/library/urls.py" afterDir="false" />
+    <list default="true" id="3987cef4-39e9-48fc-9b8d-ebf282bca589" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/geeks_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/geeks_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/geeks_Library/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basket/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_tags/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/migrations/0002_review.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library_blog/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/127e66a9-a929-4330-87fd-c718a21d4238.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/3f68a41d-d7ec-4f1b-ae7b-36376eb66430.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main_page/show_detali.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/main_page/show_list.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/basket_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/basket_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/create_basket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/delete_basket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/list_of_orders.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/Basket/update_basket.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/components/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/recipes/add_ingredient.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/recipes/add_recipe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/recipes/edit_ingredien.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/recipes/recipe_detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/recipes/recipe_list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tags/all_books.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tags/kids.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tags/pensioners.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tags/teenagers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/tags/youths.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/book_tags/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/book_tags/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/library_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/library_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/book_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/book_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/components/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/all_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/all_book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/kids.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/kids.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/pensioners.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/pensioners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/teenagers.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/teenagers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/youths.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/youths.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +30,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -93,41 +38,49 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2rODRxbtCciDvm6MbqwjEqazLvG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2rZTfl5l7Or59hhLoAAKhqJnnlf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/GEEKS_LIBRARY/main_app/templates&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\geeks_Library" />
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app" />
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\media" />
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates\components" />
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3fee4ccc-72b3-4661-92cb-5700f3bde46c" name="Changes" comment="" />
-      <created>1736421223597</created>
+      <changelist id="3987cef4-39e9-48fc-9b8d-ebf282bca589" name="Changes" comment="" />
+      <created>1736765702952</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1736421223597</updated>
+      <updated>1736765702952</updated>
     </task>
     <servers />
   </component>

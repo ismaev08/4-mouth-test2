@@ -1,19 +1,22 @@
-{% load static %}
-{% include 'components/header.html' %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
 
-<link rel="stylesheet" href="{% static 'styles.css' %}">
+<a href="{% url 'pensioner' %}">для пенсионеров</a>
+<a href="{% url 'youth' %}">для молодёжи</a>
+<a href="{% url 'teenager' %}">для подростков</a>
+<a href="{% url 'kid' %}">для детей</a>
 
-    {% for i in all_book %}
-    <div class="card">
-        <h1>{{ i.name }}</h1>
-        <p>{{ i.price }}</p>
-    </div>
-    {% endfor %}
+{% for i in books %}
 
-    <div class="buttons">
-        <a href="" class="button pensionera">Pensionera</a>
-        <a href="" class="button kids">Kids</a>
-    </div>
+<p>{{ i.name }}</p>
+<p>{{ i.price }}</p>
 
+{% endfor %}
 
-{% include 'components/footer.html' %}
+</body>
+</html>
