@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3987cef4-39e9-48fc-9b8d-ebf282bca589" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/main_app/templates/basket/basket_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/templates/basket/delete_basket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/templates/basket/update_basket.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/geeks_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/geeks_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/book_tags/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/book_tags/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/library_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/library_blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/book_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/book_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/basket/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/basket/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/basket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/basket/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/main_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/main_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/main_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/main_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/templates/basket/create_basket.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/basket/create_basket.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_app/templates/components/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/components/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/all_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/all_book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/kids.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/kids.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/pensioners.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/pensioners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/teenagers.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/teenagers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/templates/tags/youths.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/templates/tags/youths.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/GEEKS_LIBRARY/main_app/templates&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/GEEKS_LIBRARY/main_app/templates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -59,11 +58,11 @@
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\media" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates\components" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
-      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY" />
     </key>
   </component>
   <component name="SharedIndexes">

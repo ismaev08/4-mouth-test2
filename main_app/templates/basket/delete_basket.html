@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<form method="POST">
+{% csrf_token %}
+<h2>Вы уверенны что хотите удалить </h2>
+<button type="submit">Да</button>
+<button><a href="{% url 'BasketList' %}">Нет</a></button>
+</form>

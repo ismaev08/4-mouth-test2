@@ -1,2 +1,5 @@
 .venv/
 db.sqlite3
+*.pyc
+__pycache__/
+main_app/book_tags/migrations/
