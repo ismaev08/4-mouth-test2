@@ -1,5 +1,7 @@
 from django.db import models
-from main_app.book_tags.models import Books
+from book_tags.models import Books
+from resipe.models import Recipe
+
 
 class BasketModel(models.Model):
     CHECKING = (
