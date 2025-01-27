@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3987cef4-39e9-48fc-9b8d-ebf282bca589" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/templates/users/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app/templates/users/register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_app/basket/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/basket/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/basket/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/basket/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/basket/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/basket/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_app/book_tags/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/book_tags/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_app/main_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/main_app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app/users/middleware.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app/users/middlwares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,11 @@
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\main_app" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\media" />
       <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates\components" />
-      <recent name="C:\Users\User\PycharmProjects\GEEKS_LIBRARY\main_app\templates" />
     </key>
   </component>
   <component name="SharedIndexes">

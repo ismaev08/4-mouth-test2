@@ -1,6 +1,5 @@
 from django.db import models
-from book_tags.models import Books
-from resipe.models import Recipe
+from  book_tags.models import Books
 
 
 class BasketModel(models.Model):
