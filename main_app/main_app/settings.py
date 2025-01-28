@@ -1,6 +1,6 @@
 from pathlib import Path
 import os
-
+from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -9,17 +9,16 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
-
+load_dotenv()
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.getenv('af19zlxfmdp)%l@x0zw0))9@qex6lf5y6gb98*$q#vij_h7z%')
+SECRET_KEY = os.getenv('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-if os.environ.get("DEBUG") == "off":
+if os.environ.get("DEBUG") == "on":
     DEBUG = True
 else:
-    DEBUG = True
-
+    DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -28,7 +27,6 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
-
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -38,8 +36,9 @@ INSTALLED_APPS = [
     # startapps
     'library_blog',
     'book_tags',
-    'basket',
+    'Basket',
     'users',
+    'recipe'
 ]
 
 MIDDLEWARE = [
